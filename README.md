@@ -22,6 +22,10 @@
 
   After installation, type in 'node index.js' in your command-line. From there, a series of questions about your logo will be asked. Please answer each one of them. Once all of the questions have been answered, the application will take your answers and automatically generate a logo and save it as an SVG in the examples folder.
 
+
+https://github.com/libbyou/SVG-Logo-Maker/assets/144481823/7cf58cc3-0492-42a8-9ee4-87f6a8915849
+
+
   [![Video of SVG Logo Generator App's Usage]](https://drive.google.com/file/d/1RypDMObc_eRDbB_G_I-ZJt-NMKCNn2SO/view?usp=sharing)
 
   ## Contributing
@@ -29,6 +33,10 @@
   All are welcome to contribute! Before contributing, please fork the repo, create a local branch, and create a pull request for any changes you'd like to make. Following a code review, your code will be merged.
 
   ## Tests
+
+
+https://github.com/libbyou/SVG-Logo-Maker/assets/144481823/d9656505-ebf3-4fd3-bf80-af73b38474b3
+
 
   [![Video of SVG Logo Generator App Testing]](https://drive.google.com/file/d/1RypDMObc_eRDbB_G_I-ZJt-NMKCNn2SO/view?usp=sharing)
 
