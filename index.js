@@ -3,7 +3,7 @@
 const inquirer = require('inquirer');
 //imports file system module
 const fs = require ('fs');
-//
+//imports renderShapes from renderShapes.js
 const renderShapes = require ('./lib/renderShapes')
 
 //Array of questions to ask for user input
@@ -47,6 +47,7 @@ function init () {
     });
 };
 
+//takes the user's input and uses the renderShapes function to generate logo
 function writeToFile(responses) {
     fs.writeFile('./examples/logo.svg', renderShapes(responses), (err) =>
     err ? console.log(err) : console.log('Logo made!'))

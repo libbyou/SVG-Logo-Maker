@@ -1,3 +1,4 @@
+//imports Triangle, Circle, Square class from shapes.js
 const {Triangle, Circle, Square} = require ('../lib/shapes');
 
 // test for triangle class

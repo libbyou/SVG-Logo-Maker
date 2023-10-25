@@ -34,6 +34,7 @@ https://github.com/libbyou/SVG-Logo-Maker/assets/144481823/7cf58cc3-0492-42a8-9e
 
   ## Tests
 
+  To run tests, in your command-line, enter the command 'npm run test'. Using jest, tests will run on the shapes.test.js file. It will take in the given paramters that act as the user input and compare them to the expected rendered result.
 
 https://github.com/libbyou/SVG-Logo-Maker/assets/144481823/d9656505-ebf3-4fd3-bf80-af73b38474b3
 
